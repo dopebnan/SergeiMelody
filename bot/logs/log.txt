@@ -1,0 +1,18 @@
+Dec 15 17:57:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [CRITICAL] initialization: config file not found, stopping..
+Dec 15 18:02:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:02:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] initialization: Couldn't find settings file, creating a default one..
+Dec 15 18:02:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization/default_settings: Created a default settings.json
+Dec 15 18:02:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:02:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:02:36 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:02:36 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:02:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:02:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
