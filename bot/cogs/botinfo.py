@@ -67,7 +67,10 @@ class BotInfo(commands.Cog, name="Bot Info", description="Stuff about the bot"):
                       brief="Gives technical info about bot")
     async def sysinfo(self, ctx):
         header = f"{self.bot.user.name}@[kwanCore]"
-        latest_ver = terminal("git tag -l").split('\n')[-2]
+        try:
+            latest_ver = terminal("git tag -l").split('\n')[-2]
+        except IndexError:
+            latest_ver = "?"
         try:
             temp = terminal("vcgencmd measure_temp").split('=')[1].replace("'", '’')
         except IndexError:
@@ -77,11 +80,16 @@ class BotInfo(commands.Cog, name="Bot Info", description="Stuff about the bot"):
                 "Couldn't measure CPU temp, are you sure this is a raspberrypi?"
             )
             temp = 0
+        try:
+            uptime = terminal(b'uptime -p').replace('up ', '').replace("\n", "")
+        except TypeError:
+            uptime = "??"
+        cpu = str(temp).replace('\n', '')
         result = (f"```yaml\n"
                   f"{header}\n{'-' * len(header)}\n"
                   f"OS: {platform().split('-', 1)[0]}\n"
-                  f"CPU: {temp}"
-                  f"Uptime: {terminal(b'uptime -p').replace('up ', '')}"
+                  f"CPU: {cpu}\n"
+                  f"Uptime: {uptime}\n"
                   f"Python: {python_version()}\n"
                   f"Discord.py: {discord.__version__}\n"
                   f"kwanCore: {self.bot.kwanCore_ver}\n"
@@ -96,7 +104,7 @@ class BotInfo(commands.Cog, name="Bot Info", description="Stuff about the bot"):
         embed = discord.Embed(
             title="Source code",
             description="You can view the source code on "
-                        "[GitHub](https://github.com/dopebnan/kwanbot)",
+                        "[GitHub](https://github.com/dopebnan/SergeiMelody)",
             color=discord.Color.random()
         )
         await ctx.send(embed=embed)
