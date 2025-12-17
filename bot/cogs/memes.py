@@ -7,6 +7,7 @@ along with kwanCore. If not, see <https://www.gnu.org/licenses/>.
 """
 
 import asyncpraw
+import random
 
 from discord.ext import commands
 import discord
@@ -23,37 +24,45 @@ class Memes(commands.Cog, name="Memes", description="Reddit and stuff"):
             user_agent=bot.config["reddit"]['user_agent'],
             username=bot.config["reddit"]['username']
         )
+        self.emojis = bot.config["emojis"]
 
-    async def get_post_embed(self, subreddit, color=None, timeout=10):
+    async def get_post_embed(self, subreddit, color=None, title="", timeout=100):
         """
         Get a random image from a subreddit
 
         :param subreddit:  str, the subreddit name
         :param color:  int, the embed color
             Default: None
-        :param timeout:  int, the amount of loops it should do before stopping;
-            Default:  10
+        :param title:  str, the embed title
+            Default: the title of the found submission
+        :param timeout:  int, the post limit
+            Default: 100
         """
         subreddit = await self.reddit.subreddit(subreddit)
-        submission = await subreddit.random()
-        i = 0
+        submissions = [post async for post in subreddit.hot(limit=100) if hasattr(post, "post_hint") and post.post_hint == "image"]
 
-        while not submission.post_hint == "image":
-            if i >= timeout:
-                raise TimeoutError("Couldn't find an image")
-            # if 10 posts didn't have an image, then that's worrying
-            i += 1
-            submission = await subreddit.random()
+        if not submissions:
+            raise TimeoutError()
 
-        self.logger.log("info", "get_post_embed",
-                        f"Found {submission.permalink} from r/{submission.subreddit}")
+        submission = random.choice(submissions)
+
+        if not title:
+            title = submission.title
+
+        self.logger.log(
+            "info", "get_post_embed",
+            f"Found {submission.permalink} from r/{submission.subreddit}"
+        )
         embed = discord.Embed(
-            title=submission.title,
-            url=submission.url,
+            title=title,
+            url=submission.shortlink,
             color=color
         )
         embed.set_image(url=submission.url)
-        embed.add_field(name=f":arrow_up: {submission.score} :arrow_down:", value="\u200b")
+        embed.add_field(
+            name=f"{self.emojis['upvote']} {submission.score} {self.emojis['downvote']}",
+            value="\u200b"
+        )
         embed.set_footer(text=f"Posted by u/{submission.author} in r/{submission.subreddit}")
         return embed
 
