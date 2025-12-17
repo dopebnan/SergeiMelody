@@ -12,7 +12,7 @@ from discord.ext import commands
 descriptions = {
     "play": (
         "`$PREFplay [flag] [*song]`\n"
-        "\nSearches for your requested song and play the best result\n"
+        "\nSearches for your requested song and plays the best result\n"
         "\nSearch flags:"
         f"\n` -yt, --youtube{' ' * 7}search on youtube`"
         f"\n` -sc, --soundcloud{' ' * 4}search on soundcloud`"
