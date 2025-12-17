@@ -152,7 +152,7 @@ class Dev(commands.Cog, name="Developer Commands",
             os.rename(
                 "./logs/log.txt",
                 f"./logs/log"
-                f"{time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())}"
+                f"{time.strftime('%Y-%m-%dT%H%M%SZ', time.gmtime())}"
             )
             self.logger.log("info", "log/arg_n", "Created a new log file.")
             await ctx.send("Created a new log file")
