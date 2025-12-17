@@ -30,6 +30,7 @@ class General(commands.Cog, name="General", description="General user commands")
         p = random.choice(list(quotes.values()))
         msg = random.choice(p["quotes"])
         test.send(msg, username=p["name"], avatar_url=p["pfp"])
+        self.logger.log("info", "quote", f"Sent <{p['name']}>'s <{msg}>")
 
 
 async def setup(bot):
