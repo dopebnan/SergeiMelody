@@ -8,6 +8,7 @@ along with kwanCore. If not, see <https://www.gnu.org/licenses/>.
 
 from platform import platform, python_version
 
+
 import discord
 from discord.ext import commands
 
@@ -18,8 +19,13 @@ class BotInfo(commands.Cog, name="Bot Info", description="Stuff about the bot"):
     def __init__(self, bot):
         self.bot = bot
         self.logger = bot.logger
+        self.config = bot.config
 
-    @commands.command(name="changelog", aliases=["changes", "updates"], brief="Sends the changelog")
+    @commands.command(
+        name="changelog",
+        aliases=["changes", "updates"],
+        brief="Sends the changelog"
+    )
     async def changelog(self, ctx):
         file = discord.File('../changelog.md')
         await ctx.send(file=file)
@@ -51,7 +57,8 @@ class BotInfo(commands.Cog, name="Bot Info", description="Stuff about the bot"):
     async def report(self, ctx):
         embed = discord.Embed(
             title="Report",
-            description="You should open an [issue](https://github.com/dopebnan/kwancore/issues)!",
+            description="You should open an "
+                        "[issue](https://github.com/dopebnan/kwancore/issues)!",
             color=0x5de7b4
         )
         await ctx.send(embed=embed)
@@ -64,7 +71,11 @@ class BotInfo(commands.Cog, name="Bot Info", description="Stuff about the bot"):
         try:
             temp = terminal("vcgencmd measure_temp").split('=')[1].replace("'", '’')
         except IndexError:
-            self.logger.log("warn", "stats", "Couldn't measure CPU temp, are you sure this is a raspberrypi?")
+            self.logger.log(
+                "warn",
+                "stats",
+                "Couldn't measure CPU temp, are you sure this is a raspberrypi?"
+            )
             temp = 0
         result = (f"```yaml\n"
                   f"{header}\n{'-' * len(header)}\n"
@@ -84,7 +95,8 @@ class BotInfo(commands.Cog, name="Bot Info", description="Stuff about the bot"):
     async def sourcecode(self, ctx):
         embed = discord.Embed(
             title="Source code",
-            description="You can view the source code on [GitHub](https://github.com/dopebnan/kwanbot)",
+            description="You can view the source code on "
+                        "[GitHub](https://github.com/dopebnan/kwanbot)",
             color=discord.Color.random()
         )
         await ctx.send(embed=embed)

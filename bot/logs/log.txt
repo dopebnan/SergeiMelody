@@ -16,3 +16,965 @@ Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :
 Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
 Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
 Dec 15 18:02:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:07:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:07:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:12:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:12:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:12:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 18:13:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:13:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:13:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 18:13:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:13:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:13:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:13:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:13:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:13:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:13:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:18:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:18:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:23:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:23:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:23:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 18:25:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:25:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:25:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 18:25:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:25:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:25:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:25:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:25:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:25:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:25:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Bot Info' msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'changelog' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'info' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'ping' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'report' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sysinfo' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sourcecode' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Developer Commands' msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'update' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'settings' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'log' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Help' msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'help' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Memes' msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'random_image' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Music' msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'join' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'play' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'queue' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'playfile' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'pause' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'skip' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'stop' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'leave' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'remove' to the msg
+Dec 15 18:29:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'lyrics' to the msg
+Dec 15 18:29:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: sent msg
+Dec 15 18:29:17 <jakeushal_11967, 1382140551553486901>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help
+Dec 15 18:29:42 <jakeushal_11967, 1382140551553486901>: [ERROR] ?join: UnicodeEncodeError: 'charmap' codec can't encode character '\u0151' in position 135: character maps to <undefined>
+Dec 15 18:30:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:30:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:31:05 <bnan3426, 696434931483803778>: [ERROR] ?l: IndexError: list index out of range
+Dec 15 18:31:09 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?d
+Dec 15 18:31:12 <bnan3426, 696434931483803778>: [ERROR] ?j: UnicodeEncodeError: 'charmap' codec can't encode character '\u0151' in position 135: character maps to <undefined>
+Dec 15 18:31:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:31:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:32:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 18:32:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:32:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:32:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:32:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:32:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:32:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:32:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:33:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:33:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:33:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 18:33:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:33:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:33:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:33:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:33:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:33:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:33:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:33:16 <bnan3426, 696434931483803778>: [ERROR] ?j: UnicodeEncodeError: 'charmap' codec can't encode character '\u0151' in position 135: character maps to <undefined>
+Dec 15 18:35:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:35:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:36:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 18:36:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:36:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:36:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:36:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:36:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:36:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:36:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:37:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:37:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:37:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 18:37:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:37:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:37:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:37:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:37:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:37:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:37:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:37:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 18:37:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:37:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'Dj bela' with 'ytsearch:'..
+Dec 15 18:37:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'Dj bela' (xjmJLSMDBz8)
+Dec 15 18:37:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added DJ Bella Kri - Live | Progressive House & Melodic Techno Mix | November 2023 to the queue
+Dec 15 18:37:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:37:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'DJ Bella Kri - Live | Progressive House & Melodic Techno Mix | November 2023'
+Dec 15 18:37:44 <jakeushal_11967, 1382140551553486901>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?play Dj bela
+Dec 15 18:38:00 <jakeushal_11967, 1382140551553486901>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?stop
+Dec 15 18:38:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:38:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka' with 'ytsearch:'..
+Dec 15 18:38:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka' (pRpeEdMmmQ0)
+Dec 15 18:38:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 18:38:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:38:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 18:38:17 <jakeushal_11967, 1382140551553486901>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?play waka waka
+Dec 15 18:38:24 <jakeushal_11967, 1382140551553486901>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?stop
+Dec 15 18:38:30 <bnan3426, 696434931483803778>: [ERROR] ?HELP play: Command "HELP" is not found
+Dec 15 18:38:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help_cb: Created play help embed
+Dec 15 18:38:33 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help play
+Dec 15 18:38:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: -sc
+Dec 15 18:38:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'FOGELBE [REMIX]' with 'scsearch:'..
+Dec 15 18:38:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'FOGELBE [REMIX]' (1398204997)
+Dec 15 18:38:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added FOGELBE [REMIX] to the queue
+Dec 15 18:38:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:38:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'FOGELBE [REMIX]'
+Dec 15 18:38:52 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?play -sc FOGELBE [REMIX]
+Dec 15 18:39:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help_cb: Created join help embed
+Dec 15 18:39:12 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help join
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Bot Info' msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'changelog' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'info' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'ping' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'report' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sysinfo' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sourcecode' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Developer Commands' msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'update' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'settings' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'log' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Help' msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'help' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Memes' msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'random_image' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Music' msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'join' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'play' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'queue' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'playfile' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'pause' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'skip' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'stop' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'leave' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'remove' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'lyrics' to the msg
+Dec 15 18:39:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: sent msg
+Dec 15 18:39:16 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help
+Dec 15 18:39:34 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?q
+Dec 15 18:39:48 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?skip
+Dec 15 18:39:51 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?q
+Dec 15 18:40:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help_cb: Created remove help embed
+Dec 15 18:40:04 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help remove
+Dec 15 18:40:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] attachment_url: Got https://cdn.discordapp.com/attachments/1450162541530710096/1450165621609336912/GERG.mp3?ex=69418b7a&is=694039fa&hm=3d4a2d843dedff1a05ee5a94e163e7412424d7c2e3719e533b106ac71b2211b4&
+Dec 15 18:40:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] add_attachment_to_queue: Added GERG.mp3 to the queue
+Dec 15 18:40:28 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:40:28 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'GERG.mp3'
+Dec 15 18:40:28 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?pf
+Dec 15 18:40:40 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?q
+Dec 15 18:41:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:41:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 18:41:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 18:41:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 18:41:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:41:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 18:41:05 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 18:41:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] pause: Paused the music
+Dec 15 18:41:09 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?pause
+Dec 15 18:41:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] pause: Resumed the music
+Dec 15 18:41:12 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?pause
+Dec 15 18:41:18 <bnan3426, 696434931483803778>: [ERROR] ?l: ClientResponseError: 401, message='Unauthorized', url='https://api.genius.com/search?q=waka+waka+africa&per_page=10&page=0'
+Dec 15 18:42:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:42:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:42:13 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?j
+Dec 15 18:42:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [WARN] inactivity: Inactivity check #1 returned true
+Dec 15 18:42:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:42:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:42:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 18:42:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:42:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:42:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:42:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:42:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:42:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:42:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:42:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 18:42:26 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:42:26 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 18:42:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 18:42:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 18:42:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:42:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 18:42:31 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 18:42:31 <bnan3426, 696434931483803778>: [ERROR] ?l: ClientResponseError: 401, message='Unauthorized', url='https://api.genius.com/search?q=waka+waka+africa&per_page=10&page=0'
+Dec 15 18:43:19 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:43:19 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:43:22 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 18:43:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 18:43:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:43:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:43:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:43:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:43:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:43:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:43:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:43:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:43:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 18:43:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 18:43:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 18:43:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:43:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 18:43:30 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 18:43:34 <bnan3426, 696434931483803778>: [ERROR] ?l: ClientResponseError: 403, message='Forbidden', url='https://genius.com/Ati242-hipopotam-lyrics'
+Dec 15 18:45:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:45:28 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'van halen eruption' with 'ytsearch:'..
+Dec 15 18:45:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'van halen eruption' (M4Czx8EWXb0)
+Dec 15 18:45:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Eruption (2015 Remaster) to the queue
+Dec 15 18:45:32 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p van halen eruption
+Dec 15 18:45:32 <bnan3426, 696434931483803778>: [ERROR] ?s: Command "s" is not found
+Dec 15 18:45:36 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?skip
+Dec 15 18:45:36 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:45:36 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Eruption (2015 Remaster)'
+Dec 15 18:45:44 <bnan3426, 696434931483803778>: [ERROR] ?l: ClientResponseError: 403, message='Forbidden', url='https://genius.com/Van-halen-eruption-lyrics'
+Dec 15 18:46:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:46:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:46:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 18:46:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:46:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:46:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:46:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:46:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:46:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:46:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:46:35 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 18:46:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:46:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 18:46:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 18:46:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 18:46:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:46:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 18:46:45 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 18:46:49 <bnan3426, 696434931483803778>: [ERROR] ?l: ContentTypeError: 200, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.genius.com/search?q=waka+waka+africa&per_page=10&page=0'
+Dec 15 18:49:28 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:49:28 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:49:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 18:49:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:49:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:49:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:49:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:49:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:49:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:49:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:49:34 <bnan3426, 696434931483803778>: [ERROR] ?J: Command "J" is not found
+Dec 15 18:49:36 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 18:49:42 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'nandiredstone' with 'ytsearch:'..
+Dec 15 18:49:46 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'nandiredstone' (0PhsodBfVX4)
+Dec 15 18:49:46 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added cristel shivling and Nandi red stone ganesha #song #music #crystals #stone #jaipur to the queue
+Dec 15 18:49:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:49:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'cristel shivling and Nandi red stone ganesha #song #music #crystals #stone #jaipur'
+Dec 15 18:49:47 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p nandiredstone
+Dec 15 18:49:55 <bnan3426, 696434931483803778>: [ERROR] ?l: AttributeError: 'NoneType' object has no attribute 'full_title'
+Dec 15 18:50:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:50:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 18:50:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 18:50:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 18:50:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:50:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 18:50:17 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 18:50:22 <bnan3426, 696434931483803778>: [ERROR] ?l: ClientResponseError: 403, message='Forbidden', url='https://genius.com/Ati242-hipopotam-lyrics'
+Dec 15 18:50:41 <jakeushal_11967, 1382140551553486901>: [ERROR] ?l: ContentTypeError: 200, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.genius.com/search?q=waka+waka+africa&per_page=10&page=0'
+Dec 15 18:53:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 18:53:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 18:53:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 18:53:41 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 18:53:41 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 18:53:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 18:53:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 18:53:51 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 18:53:51 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 18:53:51 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:00:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:00:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:00:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 19:00:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:00:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:00:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:00:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:00:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:00:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:00:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:00:47 <bnan3426, 696434931483803778>: [ERROR] ?J: Command "J" is not found
+Dec 15 19:00:51 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 19:00:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 19:00:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 19:00:59 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 19:00:59 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 19:00:59 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 19:00:59 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 19:00:59 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:01:19 <bnan3426, 696434931483803778>: [ERROR] ?l: TypeError: string indices must be integers, not 'str'
+Dec 15 19:01:54 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:01:54 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:01:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 19:01:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 19:01:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:01:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:01:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:01:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:01:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:01:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:01:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:02:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 19:02:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 19:02:10 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 19:02:10 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 19:02:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 19:02:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 19:02:11 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:03:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:03:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:03:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 19:03:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:03:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:03:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:03:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:03:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:03:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:03:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:03:41 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 19:04:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 19:04:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 19:04:22 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 19:04:22 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 19:04:22 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 19:04:22 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 19:04:22 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:04:27 <bnan3426, 696434931483803778>: [ERROR] ?l: ClientResponseError: 403, message='Forbidden', url='https://genius.com/Ati242-hipopotam-lyrics'
+Dec 15 19:04:36 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:04:36 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:04:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 19:04:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:04:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:04:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:04:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:04:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:04:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:04:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:04:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 19:04:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 19:04:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 19:04:59 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 19:04:59 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 19:05:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 19:05:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 19:05:00 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:06:11 <bnan3426, 696434931483803778>: [ERROR] ?l: ClientResponseError: 403, message='Forbidden', url='https://genius.com/Ati242-hipopotam-lyrics'
+Dec 15 19:08:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:08:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:08:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 19:08:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:08:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:08:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:08:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:08:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:08:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:08:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:08:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 19:08:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 19:08:10 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 19:08:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 19:08:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 19:08:18 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 19:08:18 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 19:08:18 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:08:21 <bnan3426, 696434931483803778>: [ERROR] ?l: ContentTypeError: 200, message='Attempt to decode JSON with unexpected mimetype: application/json; charset=utf-8', url='https://api.genius.com/search?q=waka+waka+africa&per_page=10&page=0'
+Dec 15 19:09:02 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:09:02 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:09:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 19:09:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:09:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:09:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:09:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:09:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:09:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:09:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:09:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 19:09:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 19:09:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 19:09:19 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 19:09:19 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 19:09:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 19:09:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 19:09:20 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:09:39 <bnan3426, 696434931483803778>: [ERROR] ?l: ClientResponseError: 403, message='Forbidden', url='https://genius.com/Ati242-hipopotam-lyrics'
+Dec 15 19:09:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:09:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:09:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 19:09:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:09:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:09:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:09:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:09:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:09:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:09:52 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:10:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 19:10:42 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 19:10:42 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 19:10:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 19:10:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 19:10:51 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 19:10:51 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 19:10:51 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:16:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:16:05 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:16:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 19:16:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:16:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:16:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:16:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:16:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:16:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:16:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:16:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 19:16:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 19:16:24 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'waka waka africa' with 'ytsearch:'..
+Dec 15 19:16:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'waka waka africa' (pRpeEdMmmQ0)
+Dec 15 19:16:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) to the queue
+Dec 15 19:16:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 19:16:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)'
+Dec 15 19:16:30 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p waka waka africa
+Dec 15 19:16:33 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?l
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Bot Info' msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'changelog' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'info' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'ping' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'report' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sysinfo' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sourcecode' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Developer Commands' msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'update' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'settings' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'log' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Help' msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'help' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Memes' msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'random_image' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Music' msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'join' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'play' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'queue' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'playfile' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'pause' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'skip' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'stop' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'leave' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'remove' to the msg
+Dec 15 19:17:31 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'lyrics' to the msg
+Dec 15 19:17:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: sent msg
+Dec 15 19:17:32 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help
+Dec 15 19:17:56 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?skip
+Dec 15 19:18:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help_cb: Created random_image help embed
+Dec 15 19:18:21 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help random_image
+Dec 15 19:18:29 <bnan3426, 696434931483803778>: [ERROR] ?random_image eyebleach: BadRequest: received 400 HTTP response
+Dec 15 19:19:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:19:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:19:11 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 19:19:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:19:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:19:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:19:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:19:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:19:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:19:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:19:21 <bnan3426, 696434931483803778>: [ERROR] ?random_image eyebleach: BadRequest: received 400 HTTP response
+Dec 15 19:20:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:20:21 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:20:25 <bnan3426, 696434931483803778>: [ERROR] ?random_image eyebleach: TypeError: object ListingGenerator can't be used in 'await' expression
+Dec 15 19:20:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 19:20:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:20:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:20:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:20:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:20:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:20:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:20:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:24:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:24:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:24:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'KWANCORE!!!'
+Dec 15 19:24:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:24:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:24:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:24:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:24:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:24:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:24:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:26:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 19:26:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 19:26:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kc!'
+Dec 15 19:26:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 19:26:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 19:26:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 19:26:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 19:26:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 19:26:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 19:26:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:06:59 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:06:59 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:07:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kéztőalagút'
+Dec 15 20:07:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:07:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:07:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:07:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:07:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:07:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:07:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:07:37 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 20:07:37 <jakeushal_11967, 1382140551553486901>: [ERROR] ?p nigeria: NoVoiceClient: Bot isn't in any voice channel
+Dec 15 20:07:42 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 20:08:16 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?d
+Dec 15 20:08:41 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:08:41 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:08:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'Partick Agent Smith'
+Dec 15 20:08:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:08:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:08:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:08:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:08:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:08:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:08:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:08:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 20:08:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 20:08:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'nigeria anthem' with 'ytsearch:'..
+Dec 15 20:09:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'nigeria anthem' (avPeagYhbgo)
+Dec 15 20:09:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Nigerian National Anthem - "Arise, Oh Compatriots" (EN) to the queue
+Dec 15 20:09:02 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 20:09:02 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Nigerian National Anthem - "Arise, Oh Compatriots" (EN)'
+Dec 15 20:09:02 <jakeushal_11967, 1382140551553486901>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p nigeria anthem
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Bot Info' msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'changelog' to the msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'info' to the msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'ping' to the msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'report' to the msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sysinfo' to the msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sourcecode' to the msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Developer Commands' msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'update' to the msg
+Dec 15 20:11:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'settings' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'log' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Help' msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'help' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Music' msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'join' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'play' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'queue' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'playfile' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'pause' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'skip' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'stop' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'leave' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'remove' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'lyrics' to the msg
+Dec 15 20:11:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: sent msg
+Dec 15 20:11:34 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help
+Dec 15 20:13:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:13:23 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:13:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'PATRICK'
+Dec 15 20:13:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:13:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:13:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:13:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:13:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:13:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:13:27 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:13:58 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?ping
+Dec 15 20:14:46 <bnan3426, 696434931483803778>: [ERROR] ?pf: NoVoiceClient: Bot isn't in any voice channel
+Dec 15 20:14:51 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 20:14:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] attachment_url: Got https://cdn.discordapp.com/attachments/1450162541530710096/1450189405225750659/GERG.mp3?ex=6941a1a1&is=69405021&hm=5c19a4e60baca376881dcf30f8c96c8dde8e44d1c3f6e68a233f48d03c7e2bf5&
+Dec 15 20:14:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] add_attachment_to_queue: Added GERG.mp3 to the queue
+Dec 15 20:14:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 20:14:58 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'GERG.mp3'
+Dec 15 20:14:58 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?pf
+Dec 15 20:15:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] attachment_url: Got https://cdn.discordapp.com/attachments/1450162541530710096/1450189600164155412/gerrgooooooooooo.mp3?ex=6941a1cf&is=6940504f&hm=7be4925a44a3ceb8153f54d3a33061d433fb6fb981a0e41ce2fc3e2d9821b065&
+Dec 15 20:15:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] add_attachment_to_queue: Added gerrgooooooooooo.mp3 to the queue
+Dec 15 20:15:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 20:15:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'gerrgooooooooooo.mp3'
+Dec 15 20:15:45 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?pf
+Dec 15 20:16:08 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?q
+Dec 15 20:16:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 20:16:56 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'gergooooooo' with 'ytsearch:'..
+Dec 15 20:17:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'gergooooooo' (XrKZocEe5oA)
+Dec 15 20:17:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added OLÁH GERGŐ – Győz a jó | A DAL – Eurovision Hungary 2016 to the queue
+Dec 15 20:17:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 20:17:01 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'OLÁH GERGŐ – Győz a jó | A DAL – Eurovision Hungary 2016'
+Dec 15 20:17:01 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p gergooooooo
+Dec 15 20:18:24 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:18:24 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:19:38 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: --youtube
+Dec 15 20:19:38 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Searching for 'spartai kemal' with 'ytsearch:'..
+Dec 15 20:19:41 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] search: Found 'spartai kemal' (LNHjcQV31aI)
+Dec 15 20:19:41 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play: Added Kemál - 🔥Spártai💪🏽 Kemál 😎Veretőgép 🔥2020 to the queue
+Dec 15 20:19:42 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?p spartai kemal
+Dec 15 20:19:53 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?j
+Dec 15 20:19:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [WARN] inactivity: Inactivity check #0 returned false
+Dec 15 20:19:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 20:19:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'Kemál - 🔥Spártai💪🏽 Kemál 😎Veretőgép 🔥2020'
+Dec 15 20:23:24 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'Szabó Emese'
+Dec 15 20:23:24 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:23:24 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:24:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [WARN] inactivity: Inactivity check #1 returned true
+Dec 15 20:28:24 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:28:24 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:29:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [WARN] inactivity: Inactivity check #2 returned true
+Dec 15 20:35:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:35:12 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:35:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'automatic Gergő'
+Dec 15 20:35:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:35:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:35:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:35:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:35:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:35:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:35:16 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Bot Info' msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'changelog' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'info' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'ping' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'report' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sysinfo' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'sourcecode' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'quote' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Developer Commands' msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'update' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'settings' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'log' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Help' msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'help' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Set-up the core of 'Music' msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'join' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'play' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'queue' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'playfile' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'pause' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'skip' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'stop' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'leave' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'remove' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: Added 'lyrics' to the msg
+Dec 15 20:35:20 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\help.py: [INFO] help: sent msg
+Dec 15 20:35:20 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?help
+Dec 15 20:35:34 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:37:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:37:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:37:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'aranymetszés'
+Dec 15 20:37:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:37:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:37:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:37:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:37:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:37:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:37:07 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:37:10 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:37:35 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] join: Joined FekaFingatoFellakFellacioja/Pihenő
+Dec 15 20:38:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] attachment_url: Got https://cdn.discordapp.com/attachments/1450162541530710096/1450195232334418123/GERG.mp3?ex=6941a70e&is=6940558e&hm=263689b28ae0a17b83eb6489cae411cbdde227602d5b107bde7af69a8f8b0b7b&
+Dec 15 20:38:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] add_attachment_to_queue: Added GERG.mp3 to the queue
+Dec 15 20:38:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Sent 'Now playing' embed
+Dec 15 20:38:08 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\cogs\music.py: [INFO] play_music: Playing 'GERG.mp3'
+Dec 15 20:38:08 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?pf
+Dec 15 20:41:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:41:53 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:41:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'Viète-formulák'
+Dec 15 20:41:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:41:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:41:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:41:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:41:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:41:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:41:57 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:42:00 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:42:05 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:42:11 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:42:13 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:42:26 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:46:54 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:46:54 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:48:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:48:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:48:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'furunkulusok'
+Dec 15 20:48:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:48:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:48:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:48:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:48:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:48:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:48:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:48:35 <bnan3426, 696434931483803778>: [ERROR] ?quote: KeyError: 0
+Dec 15 20:48:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:48:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:48:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'kop orsó'
+Dec 15 20:48:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:48:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:48:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:48:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:48:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:48:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:48:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:49:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:49:30 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:49:34 <bnan3426, 696434931483803778>: [ERROR] ?quote: TypeError: object of type 'builtin_function_or_method' has no len()
+Dec 15 20:49:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'pucaküldetések'
+Dec 15 20:49:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:49:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:49:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:49:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:49:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:49:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:49:34 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:49:39 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:49:39 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'förtelmes'
+Dec 15 20:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:49:43 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:50:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:50:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:50:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'ravasz'
+Dec 15 20:50:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:50:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:50:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:50:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:50:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:50:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:50:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:50:12 <bnan3426, 696434931483803778>: [ERROR] ?quote: TypeError: 'builtin_function_or_method' object is not iterable
+Dec 15 20:51:51 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:51:51 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:51:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'szögletes izomcsoport'
+Dec 15 20:51:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:51:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:51:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:51:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:51:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:51:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:51:55 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:51:58 <bnan3426, 696434931483803778>: [ERROR] ?quote: TypeError: 'builtin_function_or_method' object is not subscriptable
+Dec 15 20:52:14 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:52:14 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:52:17 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:52:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'De már szarni se lehet!'
+Dec 15 20:52:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:52:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:52:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:52:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:52:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:52:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:52:17 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:52:20 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:54:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 20:54:44 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 20:54:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'rakoncátlan'
+Dec 15 20:54:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:54:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 20:54:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:54:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 20:54:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 20:54:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 20:54:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 20:54:48 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 20:59:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 20:59:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:04:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 21:04:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 21:04:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'Borisz'
+Dec 15 21:04:32 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:04:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:04:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:04:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 21:04:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 21:04:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 21:04:33 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:04:39 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:04:41 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:05:56 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 21:05:56 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 21:05:59 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:06:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'T-1000'
+Dec 15 21:06:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:06:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:06:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:06:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 21:06:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 21:06:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 21:06:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:06:12 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:06:16 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:06:21 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:06:28 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:06:35 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:06:38 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:07:35 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 21:07:35 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 21:07:39 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:07:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'Technoblade'
+Dec 15 21:07:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:07:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:07:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:07:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 21:07:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 21:07:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 21:07:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:07:44 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:07:51 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:08:31 <bnan3426, 696434931483803778>: [ERROR] ?QUOTE: Command "QUOTE" is not found
+Dec 15 21:08:33 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:12:38 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:12:38 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:16:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 21:16:40 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 21:16:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'János Bitéz'
+Dec 15 21:16:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:16:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:16:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:16:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 21:16:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 21:16:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 21:16:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:16:46 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:16:48 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:17:25 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:17:29 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:18:24 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:18:27 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:18:29 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:18:32 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:18:34 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:21:42 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:21:42 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:23:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 21:23:25 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 21:23:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'Jön a hal!'
+Dec 15 21:23:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:23:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:23:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:23:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 21:23:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 21:23:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 21:23:29 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:23:30 <bnan3426, 696434931483803778>: [ERROR] ?QUOTE: Command "QUOTE" is not found
+Dec 15 21:23:34 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:23:40 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:23:43 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:23:46 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:23:48 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:23:50 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:23:52 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:24:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 15 21:24:03 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 15 21:24:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'AK-47'
+Dec 15 21:24:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:24:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:24:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:24:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 15 21:24:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 15 21:24:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 15 21:24:06 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 15 21:24:08 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:24:10 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:24:13 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 15 21:29:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:29:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:34:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:34:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 15 21:34:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'Hitler'
+Dec 15 21:39:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 15 21:39:04 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 17:47:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 17 17:47:00 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 17 17:47:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 17 17:47:09 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 17 17:47:12 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 17 17:47:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'mágnes'
+Dec 17 17:47:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 17:47:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 17:47:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 17 17:47:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 17 17:47:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 17 17:47:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 17 17:47:13 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 17 17:47:15 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 17 17:47:18 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 17 17:47:20 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 17 17:52:10 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 17:52:10 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 17:57:10 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 17:57:10 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 17:57:10 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'fas zfej'
+Dec 17 17:58:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 17 17:58:45 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 17 17:58:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'tökfej'
+Dec 17 17:58:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 17:58:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 17:58:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 17 17:58:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 17 17:58:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 17 17:58:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 17 17:58:49 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 17 17:58:50 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 17 17:58:53 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 17 17:58:56 <bnan3426, 696434931483803778>: [COMMAND] FekaFingatoFellakFellacioja/#bot: ?quote
+Dec 17 18:00:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/config.yaml
+Dec 17 18:00:47 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] initialization: loaded usercontent/settings.json
+Dec 17 18:00:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'standard Balázs'
+Dec 17 18:00:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 18:00:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 18:00:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 17 18:00:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :            kwancore           
+Dec 17 18:00:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :   discord.py version: 2.6.4   
+Dec 17 18:00:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] :       bot: SergeiMelody       
+Dec 17 18:00:50 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [] : 
+Dec 17 18:00:52 <bnan3426, 696434931483803778>: [ERROR] ?quoe: Command "quoe" is not found
+Dec 17 18:00:56 <bnan3426, 696434931483803778>: [ERROR] ?quote: AttributeError: 'UIO' object has no attribute 'config'
+Dec 17 18:05:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 18:05:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 18:10:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 18:10:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 18:10:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'golyóaprító'
+Dec 17 18:15:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 18:15:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 18:20:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'De már szarni se lehet!'
+Dec 17 18:20:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 18:20:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 18:25:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 18:25:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?
+Dec 17 18:30:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] status_task: changed status to 'sex'
+Dec 17 18:30:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [INFO] temp_task: trying to get temperature
+Dec 17 18:30:48 C:\Users\dopebnan\PycharmProjects\SergeiMelody\bot\main.py: [WARN] temp_task: couldn't get temperature, are you sure this is a raspberrypi?

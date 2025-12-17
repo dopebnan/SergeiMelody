@@ -58,7 +58,8 @@ class Dev(commands.Cog, name="Developer Commands",
                    f"{self.bot.command_prefix}update [mode]\n"
                    "Update the bot, or reset it to a commit.\n"
                    "\nModes:\n"
-                   f" -r, --reset{' ' * 5}delete changes and revert back to the original commit\n"
+                   f" -r, --reset{' ' * 5}delete changes "
+                   f"and revert back to the original commit\n"
                    f" --hard-pull{' ' * 5}delete changes and update to the latest commit\n"
                    f" -m, --merge{' ' * 5}save changes and update to the latest commit\n"
                    f" -h, --help{' ' * 6}display this help message and exit"
@@ -72,12 +73,17 @@ class Dev(commands.Cog, name="Developer Commands",
                            "Do you want to continue? [Y/n]")
             cmd = "cd ../ && git reset --hard"
         elif flag == '--hard-pull':
-            await ctx.send(f"{status}\nThis will reset the current version and update to the latest commit.\n"
-                           "Do you want to continue? [Y/n]")
+            await ctx.send(
+                f"{status}\n"
+                f"This will reset the current version and update to the latest commit.\n"
+                "Do you want to continue? [Y/n]"
+            )
             cmd = "cd ../ && git reset --hard && git pull --no-stat"
         elif flag in ('-m', "--merge"):
-            await ctx.send(f"{status}\nThis will join the current version with the latest commit.\n"
-                           "Do you want to continue? [Y/n]")
+            await ctx.send(
+                f"{status}\nThis will join the current version with the latest commit.\n"
+                "Do you want to continue? [Y/n]"
+            )
             cmd = "cd ../ && git merge --no-commit --no-stat -v"
         else:
             raise self.bot.errors.BadArgument("That flag doesn't exist.", flag)
@@ -143,7 +149,11 @@ class Dev(commands.Cog, name="Developer Commands",
             await user.send("The log file", file=log)
             await ctx.send("Check DMs")
         elif arg in ('-n', "--create-new"):
-            os.rename("./logs/log.txt", f"./logs/log{time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())}")
+            os.rename(
+                "./logs/log.txt",
+                f"./logs/log"
+                f"{time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())}"
+            )
             self.logger.log("info", "log/arg_n", "Created a new log file.")
             await ctx.send("Created a new log file")
 

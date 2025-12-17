@@ -58,7 +58,7 @@ class Logger:
 
         if self.levels[level.lower()] >= self.levels[self.level.lower()]:
             print(result)
-            with open(self.file, 'a') as f:
+            with open(self.file, 'a', encoding="utf-8") as f:
                 f.write(result + '\n')
 
     def add_level(self, level_name, level: int):

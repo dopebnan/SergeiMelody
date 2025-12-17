@@ -10,31 +10,51 @@ import discord
 from discord.ext import commands
 
 descriptions = {
-    "play": ("`$PREFplay [flag] [*song]`\n\nSearches for your requested song and play the best result\n"
-             "\nSearch flags:"
-             f"\n` -yt, --youtube{' ' * 7}search on youtube`"
-             f"\n` -sc, --soundcloud{' ' * 4}search on soundcloud`"),
-    "playfile": "`$PREFplayfile`\n\nPlays the file attached to your message",
-    "remove": "`$PREFremove [index]`\n\nRemoves the `index`th item from the queue",
-    "settings": ("`$PREFsettings [key] [value]`\n"
-                 "`$PREFsettings [mode]`\n"
-                 "`$PREFsettings`\n"
-                 "\nChange the value of each `key` to `value`"
-                 "\neg. `$PREFsettings pic_cooldown 10`\n"
-                 "\nModes:\n"
-                 "`$PREFsettings reset    resets every settings to the default value`\n"
-                 "`$PREFsettings          displays the settings`"),
-    "update": ("`$PREFupdate [flag]`\n"
-               "\nUse the `--help` flag for help"),
-    "log": ("`$PREFlog [flag]`\n"
-            "\nIf no flags are present, DMs you the log\n"
-            "\nFlags:\n"
-            "` -n, --create-new    creates a new log.txt, and saves the old one`"),
-    "random_image": ("`$PREFrandom_image [subreddit]`\n"
-                     "\nGets a random image from r/`subreddit`"),
-    "help": ("`$PREFhelp [command]\n"
-             "`$PREFhelp`\n"
-             "\nDisplays help about a command. If no command is specified then it lists all the commands.")
+    "play": (
+        "`$PREFplay [flag] [*song]`\n"
+        "\nSearches for your requested song and play the best result\n"
+        "\nSearch flags:"
+        f"\n` -yt, --youtube{' ' * 7}search on youtube`"
+        f"\n` -sc, --soundcloud{' ' * 4}search on soundcloud`"
+    ),
+    "playfile": (
+        "`$PREFplayfile`\n"
+        "\nPlays the file attached to your message"
+    ),
+    "remove": (
+        "`$PREFremove [index]`\n"
+        "\nRemoves the `index`th item from the queue"
+    ),
+    "settings": (
+        "`$PREFsettings [key] [value]`\n"
+        "`$PREFsettings [mode]`\n"
+        "`$PREFsettings`\n"
+        "\nChange the value of each `key` to `value`"
+        "\neg. `$PREFsettings pic_cooldown 10`\n"
+        "\nModes:\n"
+        "`$PREFsettings reset    resets every settings to the default value`\n"
+        "`$PREFsettings          displays the settings`"
+    ),
+    "update": (
+        "`$PREFupdate [flag]`\n"
+        "\nUse the `--help` flag for help"
+    ),
+    "log": (
+        "`$PREFlog [flag]`\n"
+        "\nIf no flags are present, DMs you the log\n"
+        "\nFlags:\n"
+        "` -n, --create-new    creates a new log.txt, and saves the old one`"
+    ),
+    "random_image": (
+        "`$PREFrandom_image [subreddit]`\n"
+        "\nGets a random image from r/`subreddit`"
+    ),
+    "help": (
+        "`$PREFhelp [command]\n"
+        "`$PREFhelp`\n"
+        "\nDisplays help about a command. "
+        "If no command is specified then it lists all the commands."
+        )
 }
 
 
@@ -61,8 +81,10 @@ class Help(commands.Cog, name="Help", description="Help commands"):
                                     f"Added '{cmd.qualified_name}' to the msg")
                 result += "\n\n"
 
-            result += ("You can also search for a specific command by putting the command name at the end!\n"
-                       "```")
+            result += (
+                "You can also search for a specific command by putting"
+                " the command name at the end!\n```"
+            )
             await ctx.send(result)
             self.logger.log("info", "help", "sent msg")
         else:

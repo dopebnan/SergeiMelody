@@ -75,6 +75,7 @@ def queue_format(queue, index):
         num = (len(result) - 2000) + 1
         result = result[:-num] + "…"  # remove excess characters
         result = result[:-47]  # remove end queue line
-        result += "\n" + "You've hit the end of the queue!".center(42) + "\n```"  # add back end queue line
+        result += "\n" + "You've hit the end of the queue!".center(42) + "\n```"
+        # add back end queue line
 
     return result

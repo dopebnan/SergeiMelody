@@ -66,17 +66,284 @@ try:
         settings = json.load(file)
         logger.log("info", "initialization", f"loaded {file.name}")
 except FileNotFoundError:
-    logger.log("warn", "initialization", "Couldn't find settings file, creating a default one..")
+    logger.log(
+        "warn",
+        "initialization",
+        "Couldn't find settings file, creating a default one.."
+    )
     settings = default_settings()
 except json.decoder.JSONDecodeError:
-    logger.log("warn", "initialization", "Couldn't decode the file, are you sure it's not empty? "
-                                         "Defaulting..")
+    logger.log(
+        "warn",
+        "initialization",
+        "Couldn't decode the file, are you sure it's not empty? Defaulting..."
+    )
     settings = default_settings()
 if len(settings) != len(config["default_settings"]):
     logger.log("error", "initialization", "Bad settings file, defaulting..")
     settings = default_settings()
 
-status_msg = ["KWANCORE!!!", "kc!"]
+status_msg = [
+    "KWANCORE!!!",
+    "?",
+    "Anyaföld",
+    "piros hó",
+    "habfehér Babos-krém",
+    "halovány cigányfog",
+    "Márkici vicci szőke elefántcsontja",
+    "sokkoló villanás",
+    "bimbógyulladás",
+    "faszsérv",
+    "spédteszt",
+    "golyóaprító",
+    "banánkenyér",
+    "Anya vegyél roamingot",
+    "semmirevaló",
+    "förtelmes",
+    "pocsék",
+    "ótvar",
+    "vacak",
+    "ganéj",
+    "hitvány",
+    "szemét",
+    "csapnivaló",
+    "silány",
+    "nívótlan",
+    "bitang",
+    "Viète",
+    "Viète-formulák",
+    "fordítottsorrendű csíkos fullánkos szúros levegőben-manevráló zümmögő geci",
+    "vadasdarázs",
+    "vaddarázs",
+    "darázs",
+    "agyafúrt",
+    "rakoncátlan",
+    "csíntalan",
+    "komisz",
+    "huncut",
+    "ravasz",
+    "mangó",
+    "Rozsdás Rákolló",
+    "Hekkentyűburger",
+    "MÁV partivonat",
+    "Motorola",
+    "II. Bányász Attila",
+    "BSFT",
+    "C-vitamin",
+    "csavargólázadás",
+    "spermacsatorna-csavarodás",
+    "fitymagomba",
+    "De már szarni se lehet!",
+    "Mányász Bárk",
+    "Székely Harakiri",
+    "Kiss Károly",
+    "macskaszex",
+    "gázszivárgás",
+    "urániumtöltet",
+    "sárgaláz",
+    "Anghi Balázs",
+    "G-pont",
+    "fityma",
+    "fánszőrzet",
+    "jobb herezacskó",
+    "bal láb",
+    "Mahmoud Shaheen",
+    "Yankee",
+    "Japán darázskaptár",
+    "lófasz",
+    "petyhüdt",
+    "hegyivíz",
+    "cigánypecsenye",
+    "lépesméz",
+    "mézes lép",
+    "fekasperma",
+    "47-es ügynök",
+    "T-1000",
+    "aranymetszés",
+    "kéztőalagút",
+    "Bálint",
+    "JoJo bizarr kalandjai",
+    "Technoblade",
+    "Kratosz",
+    "Ezt helyesen írtam?",
+    "székrekedés",
+    "bombajó",
+    "faszfej",
+    "anális halál",
+    "április",
+    "M1911",
+    "AK-47",
+    "Buff Luigi",
+    "Dumaragú",
+    "Donáld a kacsa",
+    "Charlie a majom",
+    "fürdősó",
+    "vöröskő",
+    "netherit",
+    "redstone",
+    "pipa",
+    "NAVY",
+    "mi a fasz",
+    "szó",
+    "Hannibal",
+    "volfrám",
+    "Japán",
+    "Epstein-fájlok",
+    "Dante",
+    "Vergil",
+    "Sikoku",
+    " Csornobil",
+    "atom",
+    "Gorbacsev",
+    "Sztálin",
+    "Hitler",
+    "CoViD-19",
+    "Korona",
+    "csecsemőket teherkocsi alá kell tenni",
+    "furunkulusok",
+    "legeslegeltöredezettségmentesítőtleníttethetetlenségtelenítőtlenkedhetődtél",
+    "fosszilisdinoszauruszhányásvilágranglista-megdöntéseitekéiért",
+    "Partick Agent Smith",
+    "bsft",
+    "Borisz",
+    "billentyűzet",
+    "QWERTY",
+    "9/11",
+    "afrikai dugó-taposóajtó",
+    "királykék",
+    "örökzöld",
+    "p u n c i",
+    "VILLANYGYERTYÁK",
+    "ám ez még nem minden",
+    "Há de már szarni se lehet!",
+    "Az új Saint-Éloi-kórház vizvezeték-berendezésének "
+    "és másnemű összes szerelési munkálatainak költségvetése",
+    "József Attila",
+    "xes",
+    "gyógyszertax",
+    "automatic Gergő",
+    "wide Balukapitány",
+    "large Balázs",
+    "standard Balázs",
+    "Wolf",
+    "Stüszi-vadász",
+    "mi",
+    "Az direkt van úgy",
+    "Nem akarok robbanó golyókat",
+    "mos",
+    "nem mos",
+    "mosogat",
+    "nem mosogat",
+    "India",
+    "asztali mechanikus oszcillátor",
+    "kemény",
+    "puha",
+    "szép álmokat",
+    "petyhüdt",
+    "ékezet",
+    "i",
+    "hashajtóverseny",
+    "igen",
+    "nem",
+    "YAYAYAYAY",
+    "YAY",
+    "bnan",
+    "fűlzsír",
+    "aranyér",
+    "fűzér",
+    "Adám",
+    "császár",
+    "pörög",
+    " izom GÖMB",
+    "Balázs hatalmas napszemüvegben",
+    "fehér",
+    "fekete",
+    "pucaküldetések",
+    " Gergő-Pepsi",
+    "újjászületés",
+    "reményteljes újszülött",
+    "nagyon vicces",
+    "kicsit vicces",
+    "nem ANNYIRA vicces",
+    "Gamblertom1213",
+    "szögletes izomcsoport",
+    "üzenet",
+    "u FÓ",
+    "táv cső",
+    "csillagkép",
+    "Ali Csorbadzsi",
+    "borsos herkentyű",
+    "Szekszárd",
+    "húsz",
+    "hat",
+    "nulla",
+    "láthatatlan",
+    "PATRICK",
+    "sex",
+    "sex",
+    "sex",
+    "sex",
+    "sex",
+    "sex",
+    "Bo Sinn",
+    "BO SINN",
+    "Bo Sinn",
+    "sWallo",
+    "sWallo",
+    "MIMIC",
+    "pite",
+    "tök",
+    "tökpite",
+    "pitetök",
+    "igen",
+    "nem jó",
+    "rókasajtmágnes",
+    "mágnes",
+    "mágnes",
+    "punci",
+    "punci",
+    "punci",
+    "TERHES",
+    "Császár gigantikus pucusa",
+    "pite tök",
+    "tök pite",
+    "huncut",
+    "zsivány",
+    "recskatax",
+    "Tabac",
+    "Rahat-Cald",
+    "tâlhar",
+    "tökkelütött",
+    "Höß",
+    "villám",
+    "Gergő",
+    "Balázs pucája",
+    "gambling",
+    "Balázs vicci fekete túrórudija",
+    "Balázs",
+    "cukormágnes",
+    "migráns",
+    "Balázs vicci fekete túrórudija",
+    "porcukor",
+    "tökfej",
+    "segg",
+    "recska",
+    "Gergő",
+    "punci",
+    "mágnes",
+    "Jön a hal!",
+    "koporsó",
+    "kop orsó",
+    "fas zfej",
+    "extra rape",
+    "János Bitéz",
+    "Császár pénisze",
+    "Póker Jenő",
+    " Balukapitány",
+    "Szabó Emese",
+    "Ványarém",
+    "Ványinger"
+]
 
 
 class KwanCore(commands.Bot):
@@ -85,7 +352,7 @@ class KwanCore(commands.Bot):
         self.config = config
         self.logger = logger
         self.errors = errors
-        self.version = "2.1-alpha"
+        self.version = "0.9"
         self.temp_warning = 0
         self.kwanCore_ver = "2.1-alpha"
 
@@ -116,7 +383,10 @@ class KwanCore(commands.Bot):
     async def status_task(self):
         await self.wait_until_ready()
         chosen_status = random.choice(status_msg)
-        await self.change_presence(status=discord.Status.online, activity=discord.Game(chosen_status))
+        await self.change_presence(
+            status=discord.Status.online,
+            activity=discord.Game(chosen_status)
+        )
         logger.log("info", "status_task", f"changed status to '{chosen_status}'")
 
     @tasks.loop(minutes=5)
@@ -124,10 +394,19 @@ class KwanCore(commands.Bot):
         await self.wait_until_ready()
         try:
             logger.log("info", "temp_task", "trying to get temperature")
-            temp = float(shortcuts.terminal("vcgencmd measure_temp").split('=', 1)[1].split("'", 1)[0])
+            temp = float(
+                shortcuts
+                .terminal("vcgencmd measure_temp")
+                .split('=', 1)[1]
+                .split("'", 1)[0]
+            )
         except IndexError:
             temp = 0
-            logger.log("warn", "temp_task", "couldn't get temperature, are you sure this is a raspberrypi?")
+            logger.log(
+                "warn",
+                "temp_task",
+                "couldn't get temperature, are you sure this is a raspberrypi?"
+            )
 
         if 80 > temp > 70:
             self.temp_warning += 1
@@ -139,7 +418,11 @@ class KwanCore(commands.Bot):
             self.reload()
 
         if 0 < self.temp_warning < 5:
-            embed = discord.Embed(title="WARNING", description=f"the pi's temp is `{temp}'C`", color=0xffc300)
+            embed = discord.Embed(
+                title="WARNING",
+                description=f"the pi's temp is `{temp}'C`",
+                color=0xffc300
+            )
             embed.set_footer(text=f"{self.temp_warning}. warning")
             uptime = shortcuts.terminal('uptime').split(': ')[1][:-1]
             logger.log("warn", "temp_task",
@@ -218,7 +501,10 @@ class KwanCore(commands.Bot):
 
 
 async def main():
-    async with KwanCore(command_prefix=settings["prefix"], intents=discord.Intents.all()) as bot:
+    async with KwanCore(
+            command_prefix=settings["prefix"],
+            intents=discord.Intents.all()
+    ) as bot:
         await bot.start(bot.config["token"])
 
 
