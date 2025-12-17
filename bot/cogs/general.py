@@ -18,14 +18,14 @@ with open("usercontent/quotes.json", encoding="utf-8") as file:
     quotes = json.load(file)
 
 
-class UIO(commands.Cog, name="UserInput/Output", description="General I/O commands"):
+class General(commands.Cog, name="General", description="General user commands"):
     def __init__(self, bot):
         self.bot = bot
         self.config = bot.config
         self.logger = bot.logger
 
     @commands.command(name="quote", brief="Sends a quote from the database")
-    async def quote(self):
+    async def quote(self, ctx):
         test = discord.SyncWebhook.from_url(self.config["pin_link"])
         p = random.choice(list(quotes.values()))
         msg = random.choice(p["quotes"])
@@ -33,4 +33,4 @@ class UIO(commands.Cog, name="UserInput/Output", description="General I/O comman
 
 
 async def setup(bot):
-    await bot.add_cog(UIO(bot))
+    await bot.add_cog(General(bot))
